@@ -1,5 +1,5 @@
 {
-  "name": "easyscript",
+  "name": "@fedeperin/easyscript",
   "version": "1.0.0",
   "description": "A npm package that simplifies JavaScript",
   "main": "EasyScript.js",
