@@ -1,5 +1,6 @@
 # EasyScript
 A JavaScript library that simplifies it.
+Main Page: https://easyscript.netlify.app/
 
 ## EasyScript documentation
 Find all the documentation at https://easyscript.netlify.app/docs/
